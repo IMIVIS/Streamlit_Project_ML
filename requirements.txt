@@ -1,0 +1,13 @@
+streamlit
+pandas
+matplotlib
+seaborn
+scikit-learn
+joblib
+shap
+lime
+yfinance
+requests
+torch
+transformers
+pickle
